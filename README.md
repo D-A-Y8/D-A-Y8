@@ -1,5 +1,5 @@
-### Welcome to my GitHub page! 👋
-I'm excited to have you here. I'm a budding Data Analyst passionate about turning raw data into meaningful insights. 
+### Hey there! 👋
+Thanks for stopping by my GitHub page. I'm a budding Data Analyst super passionate about turning raw data into meaningful insights📊.
 
 Here's a glimpse of my tech stack:
 
