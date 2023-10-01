@@ -6,7 +6,7 @@ Here's a glimpse of my tech stack:
 
 **Programming Language:**
 
- - Python 🐍
+ - Python 3 🐍
 
 **Data Analysis and Visualization:**
 
