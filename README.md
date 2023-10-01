@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](t.me/An_dy23)
 
 <!--
 **D-A-Y8/D-A-Y8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
