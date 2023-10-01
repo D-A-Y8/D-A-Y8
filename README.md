@@ -4,13 +4,26 @@ My name is Anastasia and I'm a budding Data Analyst super passionate about turni
 
 Here's a glimpse of my tech stack:
 
-**Programming Language:** Python
+**Programming Language:**
 
-**Data Analysis Libraries:** Pandas, NumPy, Matplotlib, SciPy, Seaborn, Plotly
+ - Python 🐍
 
-**Data Visualization Tools:** Tableu, DataLens
+**Data Analysis and Visualization:**
 
-**Database Management:** PostgreSQL
+ - Jupyter Notebook 📔
+ - Pandas 🐼
+ - Matplotlib 📈
+ - Seaborn 🌅
+ - NumPy 🧮
+ - SciPy  🧮
+ - Plotly 📊
+ - Tableau 📊
+ - DataLens 📊
+
+**Database Management:**
+
+ - PostgreSQL 📂
+
 
 Feel free to explore my repositories and don't hesitate to reach me out
 
