@@ -11,7 +11,8 @@ Here's a glimpse of my tech stack:
 
 **Database Management:** PostgreSQL
 
-Feel free to explore my repositories and projects to get a better understanding of my work and interests. If you have any questions or want to collaborate, don't hesitate to reach out [![telegram](https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/An_dy23)
+Feel free to explore my repositories and don't hesitate to reach me out
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/An_dy23)
 
 Thanks for visiting.
 
