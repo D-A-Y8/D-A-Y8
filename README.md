@@ -25,7 +25,7 @@ Here's a glimpse of my tech stack:
  - PostgreSQL 📂
 
 
-Feel free to explore my repositories and don't hesitate to reach me out
+Feel free to explore my [portfolio](https://github.com/D-A-Y8/Portfolio) and don't hesitate to reach me out
 
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/An_dy23)
 
