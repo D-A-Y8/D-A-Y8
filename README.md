@@ -10,15 +10,8 @@ Here's a glimpse of my tech stack:
 
 **Data Analysis and Visualization:**
 
- - Jupyter Notebook 📔
- - Pandas 🐼
- - Matplotlib 📈
- - Seaborn 🌅
- - NumPy 🧮
- - SciPy  🧮
- - Plotly 📊
- - Tableau 📊
- - DataLens 📊
+ - Jupyter Notebook 📔 - Pandas 🐼 - Matplotlib 📈 - Seaborn 🌅
+ - NumPy 🧮 - SciPy  🧮 - Plotly 📊 - Tableau 📊 - DataLens 📊
 
 **Database Management:**
 
