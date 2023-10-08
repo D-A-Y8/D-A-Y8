@@ -1,29 +1,29 @@
-### Hey there! 👋
-Thanks for stopping by my GitHub page. 
-My name is Anastasia and I'm a budding Data Analyst super passionate about turning raw data into meaningful insights📊.
+### Привет всем! 👋
+Спасибо, что заглянули на мою страницу GitHub.
+Меня зовут Анастасия, и я начинающий аналитик данных, увлеченный превращением необработанных данных в важные инсайты 📊 .
 
-Here's a glimpse of my tech stack:
+Мой стек:
 
-**Programming Language**
+**Язык программирования**
 
  - Python 3 🐍
 
-**Data Analysis and Visualization**
+**Анализ и визуализация данных**
 
 Jupyter Notebook 📔 Pandas 🐼 Matplotlib 📈 Seaborn 🌅
 
 NumPy 🧮 SciPy  🧮 Plotly 📊 Tableau 📊 DataLens 📊
 
-**Database Management**
+**Управление базами данных**
 
  - PostgreSQL 📂
 
 
-Feel free to explore my [portfolio](https://github.com/D-A-Y8/Portfolio) and don't hesitate to reach me out
+Моё портфолио [здесь](https://github.com/D-A-Y8/Portfolio). Буду рада пообщаться в 
 
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/An_dy23)
 
-Thanks for visiting 😊
+Спасибо за просмотр 😊
 
 <!--
 **D-A-Y8/D-A-Y8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
