@@ -14,7 +14,7 @@
 
 Jupyter Notebook 📔 Pandas 🐼 Matplotlib 📈 Seaborn 🌅
 
-NumPy 🧮 SciPy  🧮 Plotly 📊 Tableau 📊 DataLens 📊
+NumPy 🧮 SciPy  🧮 Plotly 📊 Folium 🗺️ Tableau 📊 DataLens 📊
 
 **Управление базами данных**
 
